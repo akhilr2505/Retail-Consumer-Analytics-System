@@ -50,6 +50,7 @@ does not exceed the legal limit. These insights may also be used to examine
 regular travel patterns, fine-tune staffing to account for peaks and troughs in foot
 traffic, and learn how external variables like as holidays and weather affect foot
 traffic.
+
 <img width="256" alt="image" src="https://user-images.githubusercontent.com/53989824/170782759-dd5e11eb-d1e7-4056-b46d-008f43e7befe.png">
 
 ### Customer Density Heatmap
@@ -66,6 +67,7 @@ low attention, and the unpainted areas indicating the dead zones, where
 consumers practically do not pass. Retailers may use these figures to better
 understand how to optimise product positioning and the efficacy of promotional
 displays.
+
 <img width="223" alt="image" src="https://user-images.githubusercontent.com/53989824/170782776-74015a34-b256-4d7d-8282-ff01568320bd.png">
 
 ### Gender Demographic Analysis
@@ -77,6 +79,7 @@ gender. This would aid in the promotion of gender-based marketing. Gender
 marketing can be successful if individuality and diversity are considered, which
 this module will do so by collecting gender information about purchased
 products.
+
 <img width="345" alt="image" src="https://user-images.githubusercontent.com/53989824/170782534-e13b1e2f-fe66-41d8-a34c-4c951d8785ed.png">
 
 ### Traffic Counting System
