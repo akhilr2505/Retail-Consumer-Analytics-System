@@ -89,4 +89,5 @@ sections, but it will also assist them in better advertising different products.
 would also provide information on the sales of various products at different times
 of day, which would aid in the better management of products with a short shelf
 life.
+
 <img width="340" alt="image" src="https://user-images.githubusercontent.com/53989824/170782809-1bff0f15-f762-4c2b-a66f-f491685cd083.png">
